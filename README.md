@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-预览链接：https://github.com/zmj97/m-words
+预览链接：https://blog.zmj97.top/m-words/dist/
 
 ## Build Setup
 
