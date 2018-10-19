@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-预览链接：https://blog.zmj97.top/m-words/dist/
+预览链接：https://blog.zmj97.top/m-words/dist/index.html#/
 
 ## Build Setup
 
